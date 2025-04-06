@@ -27,9 +27,6 @@ I'm a **Full Stack Developer** passionate about building clean, scalable web app
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charis16&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charis16&layout=compact&theme=radical)
 
-#### 💼 Work Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charisredcomm&show_icons=true&theme=radical)
-
 ---
 
 ### 🌐 Let's Connect
