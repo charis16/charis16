@@ -24,8 +24,9 @@ I'm a **Full Stack Developer** passionate about building clean, scalable web app
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charis16&layout=compact&theme=radical)<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charis16&show_icons=true&theme=radical)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charis16&layout=compact&theme=radical)
+
 
 ---
 
