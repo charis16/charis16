@@ -1,6 +1,6 @@
 # Hi 👋, I'm Charis!
 
-I'm a **Full Stack Developer** passionate about building clean, scalable web applications.
+I’m a **Full Stack Developer** who enjoys building robust and maintainable web applications from scratch. With hands-on experience in frontend frameworks like React and Vue, and backend tools like Laravel, Node.js, and Go, I strive to deliver seamless user experiences and solid backend infrastructure. I’m passionate about clean code, developer experience, and continuous learning.
 
 ---
 
